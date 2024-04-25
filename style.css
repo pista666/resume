@@ -7,13 +7,8 @@ body {
     color: rgba(255, 255, 255, 0.885);
     justify-content: center; align-items: center;
     padding-right: 1em;
-    margin: 0;
-    padding: 0;
-    height: 100vh; /* 100% of the viewport height */
-   
-    justify-content: center;
-    align-items: center;
-    text-align: center;
+    padding-left: 5em;
+    
 }
 
 h1{
