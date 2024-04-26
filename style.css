@@ -22,10 +22,10 @@ h2{
 }
 
 hr{
-    p
-    border: ;
     background-color: lightgray ;
     height: 1px;
+    width: 70%
+    
 }
 
 #student-info{
@@ -54,6 +54,9 @@ footer {
     color: pink;
 }
 
-container [
-
-]
+.center {
+    border: 5px solid;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
