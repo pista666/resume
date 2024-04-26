@@ -53,20 +53,9 @@ footer {
     color: pink;
 }
 
-
-<style>
-  html, body {
-    height: 100%;
-    margin: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-
   body {
     margin: 0 auto;
     max-width: 80vw; /* Adjust this value as needed */
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   }
-</style>
